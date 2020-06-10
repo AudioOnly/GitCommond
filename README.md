@@ -1,6 +1,6 @@
 # GitCommond
 记录使用的Git 命令
-![Git-scm 文献](https://www.git-scm.com/)
+[Git-scm 文献](https://www.git-scm.com/)
 
 ## 一、添加、修改、删除以及查看本地git的用户名和邮箱
 1、添加 用户名，邮箱
