@@ -64,8 +64,12 @@ $git config --global --unset user.email "your@email.com"
 
 > **通过上面三部操作，就能实现标题 所要解决的问题**。
 
+## 三 git status
+## 四 git add
+## 五 git commit
+## 六 git pull
 
-## 三 git push 相关操作
+## 七 git push 相关操作
 
 > git push的一般形式为：git push <远程主机名> <本地分支名>  <远程分支名>
 

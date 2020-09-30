@@ -1,0 +1,21 @@
+1、测试 git status 命令的作用
+
+该文件 是新创建的。
+
+命令行输出结果
+
+Rnys-MBP:GitCommond rny$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   TestGitStatus.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   Git_Command.md
+	modified:   TestGitStatus.txt
