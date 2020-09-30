@@ -10,7 +10,7 @@
 2. 编辑使用---快捷键  
    Control + Shift + Enter ： 完成声明，补全代码  
    Control + P 查看方法参数  
-   Control + J 或者 F1：查看选中元素的相关文档  
+   Control + J 或者 fn + F1：查看选中元素的相关文档  
    Command + 鼠标左键：跳转到 元素归属位置  
    Command + N | Control + 回车：弹出 Generate窗口「get/set、GsonFormat 等」  
    Control + O ：覆盖重写方法  
@@ -29,7 +29,8 @@
    Command + Shift + U：大小写切换  
    Option + Delete：删除整个词组  
    Command + W ：关闭当前文档
-4. 搜索使用--快捷键  
+
+3. 搜索使用--快捷键  
    Double Shift：随意查询  
    Command + F：当前文档查询  
    Command + G：查找下一个选中的元素  
@@ -40,7 +41,8 @@
    fn + Command + F7: 当前文档查找 所选中的元素  
    fn + Command + Shift + F7：当前文档中高亮-所选择的元素  
    fn + Command + Option + F7：查找当前文档中使用选中元素的位置
-5. 编译/运行使用--快捷键  
+
+4. 编译/运行使用--快捷键  
    fn + Command + F9：编译整个我工程 相当于（Make Project）  
    fn + Command + Shift + F9：编译选中的文件（测试-无法生效）  
    Control + Option + R：选择一个配置并运行  
@@ -49,7 +51,8 @@
    Control + D：调试  
    Control + Shift + R：运行当前编辑文件所在的模块  
    Control + Shift + D：调试当前编辑文件所在的模块
-6. 调试使用--快捷键  
+
+5. 调试使用--快捷键  
     fn + F8：执行下一行  
     fn + F7：进入方法调试  
     Shift + F7：智能进入方法调试  
@@ -59,18 +62,20 @@
     fn + Command + F2：重制程序 退出Debug调试  
     fn + Command + F8：显示隐藏添加断点  
     fn + Command + Shift + F8：显示所有断点
-7. 重构使用--快捷键  
+
+6. 重构使用--快捷键  
    fn + F5：复制选中文件到指定位置  
    fn + F6：移动选中文件到指定位置  
    Command + Delete：安全删除  
    fn + Shift + F6： 文件重命名  
    fn + Command + F6: 重新设置方法参数  
    Command + option + M：提取代码到方法中  
-   Command + option + V：提取代码总的值为 当前方法体中的一个新的变量  
+   Command + option + V：提取代码中的值为 当前方法体中的一个新的变量  
    Command + option + F：提取代码中的值为 当前类的一个成员变量  
    Command + option + C：提取代码中的值为 一个常量:(这里可以选择这个常量存放的地址)  
-   Command + option + P: 提取代码中的值为 当前编辑方法的 一个形式参数
-8. 导航相关---快捷键  
+   Command + option + P: 提取代码中的值为 当前编辑方法的 一个入参
+
+7. 导航相关---快捷键  
    Command + O ：查找类并进入  
    Command + Shift + O：查找文件并进入  
    Command + option + O：查找字符串并进入
@@ -92,7 +97,8 @@
    fn + F3 : 增加/删除标签  
    fn + option + F3 ： 设置的标签  
    fn + Command + F3：跳转到带数字0~9标记的标签 （bookmark mnemonic 书签助记符）
-9. 模块代码相关---快捷键
+
+8. 模块代码相关---快捷键
     Command + Option + J ：使用现有代码包裹  
     Command + J ：在光标所在位置 插入现有代码  
     Option + Shift + C ：最近修改的代码  
