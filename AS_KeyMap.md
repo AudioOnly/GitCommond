@@ -37,7 +37,7 @@
    Command + Shift + G：查找上一个选中的元素  
    Command + R：替换文本  
    Command + Shift + F：在路径中查找  
-   fn + Option + F7：全局查找所选中的元素（查看当前元素在当前文件中引用）  
+   fn + Option + F7：全局查找所选中的元素（查看当前元素在当前项目中引用）  
    fn + Command + F7: 当前文档查找 所选中的元素  
    fn + Command + Shift + F7：当前文档中高亮-所选择的元素  
    fn + Command + Option + F7：查找当前文档中使用选中元素的位置
