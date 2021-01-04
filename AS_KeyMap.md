@@ -107,7 +107,9 @@
     Command + Shift + A ： 查看所有命令  
     Option + Shift + Up/Down(方向键)：将代码向上/向下移动一行
 
-
-
+9. 打开AS相应的View窗口
+   Command + 7 ：打开/关闭 Structure（结构体）视图，查看类的结构。
+   fn + Command + F12： 打开 File Structure  独立窗口查看类的接口
+   Control + H ：打开Hierarchy（层级）视图，查看类的继承关系
 
 
